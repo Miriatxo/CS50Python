@@ -1,0 +1,9 @@
+# Pip-installable libraries that my project requires 
+
+json
+requests
+re
+datetime
+dateutil
+deep_translator
+
